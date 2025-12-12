@@ -1,0 +1,3 @@
+/Users/Liepa/Library/CloudStorage/OneDrive-Personal/Duomenų mokslas/2k. 2 semestras/Objektinis programavimas/objektinio_git/3-oji-uzduotis/build/CMakeFiles/programa.dir
+/Users/Liepa/Library/CloudStorage/OneDrive-Personal/Duomenų mokslas/2k. 2 semestras/Objektinis programavimas/objektinio_git/3-oji-uzduotis/build/CMakeFiles/edit_cache.dir
+/Users/Liepa/Library/CloudStorage/OneDrive-Personal/Duomenų mokslas/2k. 2 semestras/Objektinis programavimas/objektinio_git/3-oji-uzduotis/build/CMakeFiles/rebuild_cache.dir
